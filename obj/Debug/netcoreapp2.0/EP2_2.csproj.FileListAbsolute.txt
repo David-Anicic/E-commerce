@@ -1,0 +1,144 @@
+C:\Users\Lana\source\repos\EP2_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\source\repos\EP2_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\source\repos\EP2_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\source\repos\EP2_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\source\repos\EP2_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\source\repos\EP2_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\source\repos\EP2_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\source\repos\EP2_2\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\source\repos\EP2_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\source\repos\EP2_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\source\repos\EP2_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\source\repos\EP2_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\source\repos\EP2_2 – kopija\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\source\repos\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\source\repos\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\source\repos\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\source\repos\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\source\repos\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\source\repos\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\source\repos\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\source\repos\EP4\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\source\repos\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\source\repos\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\source\repos\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\source\repos\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin5\New folder\EP4\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Downloads\New folder\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin6\EP5\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin7\II grupa\New folder\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\EP6_2\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin8\UradjenTermin\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Desktop\EP\Termin9\Nastavak\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\student\source\repos\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\student\source\repos\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\student\source\repos\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\student\source\repos\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\student\source\repos\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\student\source\repos\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\student\source\repos\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\student\source\repos\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\student\source\repos\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\student\source\repos\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.deps.json
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.json
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.runtimeconfig.dev.json
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\bin\Debug\netcoreapp2.0\EP2_2.pdb
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csprojAssemblyReference.cache
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.csproj.CoreCompileInputs.cache
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfoInputs.cache
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.AssemblyInfo.cs
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.dll
+C:\Users\Lana\Downloads\EP12 - Andrej Ilic\EP2_2\obj\Debug\netcoreapp2.0\EP2_2.pdb

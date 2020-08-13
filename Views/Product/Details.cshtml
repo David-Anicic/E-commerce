@@ -1,0 +1,35 @@
+﻿@model EP2_2.Models.ViewModels.ProductDetailViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="middle">
+    <div class="heading">
+        <h2>Details:  @Model.ShortDescription</h2>
+        <h4>Category:  @Model.CategoryName </h4>
+    </div>
+    <div class="col-sm-4 col-lg-4 col-md-4">
+        <img class="total" src="@Model.ImageUrl" asp-append-version="true" alt="" />
+        <h3 class="pull-right price"> @Model.Price.ToString("c")</h3>
+        <h3 class="price"> In stock @Model.InStock</h3>
+    </div>
+
+    <div class="col-sm-6 col-lg-6 col-md-6" style="margin-top:30px;">
+        <div style="text-align: justify">
+            @Html.Raw(@Model.LongDescription)
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="addToCart">
+        <a 
+           asp-controller="ShoppingCart"
+                   asp-action="AddToShoppingCart"
+                   asp-route-productId="@Model.ProductID" class="white" id="cartButton">
+            <i class="glyphicon glyphicon-shopping-cart"> </i> <span>Add to cart</span>
+        </a>
+    </div>
+
+</div>

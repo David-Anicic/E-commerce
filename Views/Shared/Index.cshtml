@@ -1,0 +1,62 @@
+﻿@model List<EP2_2.Models.ViewModels.ProductsViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@Html.Partial("_Carousel")
+
+@foreach (var m in @Model)
+{
+<div class="row">
+    <div class="heading">
+
+        @if (m.SearchAllowed == true)
+        {
+            <div class="col-md-4">
+                <form>
+                    <div class="col-md-7 search">
+                        <input hidden asp-for="@m.Products.FirstOrDefault().CategoryID" name="categoryID" />
+                        <input class="form-control" asp-for="@m.Search" name="search" placeholder="Enter Text" />
+                    </div>
+                    <div class="col-md-4 search">
+                        <input class="btn btn-success" type="submit" value="Search" />
+                    </div>
+                </form>
+            </div>
+        }
+        <h2> @m.Title </h2>
+        <h4> @m.SubTitle </h4>
+
+    </div>
+    <div class="row">
+        @if (m.Products != null && m.Products.Count() > 0)
+        {
+            @foreach (var item in m.Products)
+            {
+                @Html.Partial("_ProductSummary", @item);
+            }
+            @if (m.PagingInfoViewModel != null)
+            {
+
+                <ul class="pagination" style="width:100%">
+                    @for (var i = 1; i <= m.PagingInfoViewModel.TotalPage; i++)
+                    {
+                        <li class="page-item @(i == m.PagingInfoViewModel.CurrentPage ? "active" : "")">
+                            <a asp-route-categoryID="@m.Products.First().Category.CategoryID" asp-route-page="@i" class="page-link">@i</a>
+                        </li>
+                    }
+                </ul>
+            }
+        }
+        else
+        {
+            <div class="noFound">
+                There is no product in list
+            </div>
+
+        }
+    </div>
+</div>
+}
+

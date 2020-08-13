@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Default";
+}
+
+@foreach (var category in Model)
+{
+    <li>
+        <a asp-controller="Product" asp-action="GetProductByCategory" asp-route-categoryID="@category.CategoryID"> @category.CategoryName</a>
+    </li>
+}
+
+

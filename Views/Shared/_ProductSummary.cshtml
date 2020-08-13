@@ -1,0 +1,34 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "_ProductSummary";
+}
+
+<div class="col-sm-4 col-lg-4 col-md-4">
+    <div class="thumbnail">
+
+        <div class="col-sm-12 col-lg-12 col-md-12">
+            <img class="thumbnailimg" src="@Model.ImageUrl" asp-append-version="true" alt="" />
+        </div>
+        <div class="caption" style="min-height:330px;">
+            <h3>
+                <a class="" asp-route="routeDetails" asp-route-productID ="@Model.ProductID" id="cartButton">@Model.Name</a>
+            </h3>
+
+            <p class="pull-right price"> @Model.Price.ToString("c")</p>
+
+            <p class="black"> @Model.ShortDescription</p>
+        </div>
+        <div class="shoppingcartbutton">
+
+            <a asp-controller="ShoppingCart"
+                   asp-action="AddToShoppingCart"
+                   asp-route-productId="@Model.ProductID" 
+               class="" id="cartButton">
+                <i class="glyphicon glyphicon-shopping-cart" style="color: white;"> </i> <span style="color:white">Add to cart</span>
+            </a>
+
+        </div>
+
+    </div>
+</div>
+

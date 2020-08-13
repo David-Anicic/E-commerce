@@ -1,0 +1,12 @@
+﻿@model EP2_2.Models.ViewModels.ShoppingCartViewModel
+@if (Model.ShoppingCartItems.Count() > 0)
+{
+    <li>
+        <a asp-controller="ShoppingCart">
+            <span style="color: white;" class="glyphicon glyphicon-shopping-cart"></span>
+            <span style="color: white;" id="cart-status">
+                @Model.ShoppingCartItems.Count
+            </span>
+        </a>
+    </li>
+}

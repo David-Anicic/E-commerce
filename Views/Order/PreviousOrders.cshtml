@@ -1,0 +1,74 @@
+﻿
+@model EP2_2.Models.ViewModels.OrdersListViewModel
+
+@{
+    ViewData["Title"] = "ModifyOrders";
+}
+
+<div class="middle" style="min-height:500px;">
+    <div class="heading">
+        <h2>All Orders</h2>
+    </div>
+    <form>
+
+        <div class="col-md-7 search">
+            <input class="form-control" name="search" id="TextSearchImput" placeholder="Enter Text" />
+        </div>
+        <div class="col-md-5 search">
+            <input class="btn btn-success" type="submit" value="search" />
+        </div>
+    </form>
+        <div>
+            <table class="table table-bordered table-striped col-md-12">
+                <thead>
+                    <tr>
+                        <th>
+                            Order Status
+                        </th>
+                        <th>
+                            Order Total
+                        </th>
+                        <th>
+                            Order Placed
+                        </th>
+                        <th>
+                            Payed
+                        </th>
+                        <th>
+                            Tools
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Orders)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.OrderStatus)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.OrderTotal)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.OrderPlaced)
+                            </td>
+                            <td>
+                                @if (item.Paied)
+                                {
+                                    <span class="glyphicon glyphicon-ok"></span>
+                                }
+                                else
+                                {
+                                    <span class="glyphicon glyphicon-remove"></span>
+                                }
+
+                            </td>
+                            <td>
+                                <a class="glyphicon glyphicon-edit" asp-action="OrderItems" asp-controller="Order" asp-route-id="@item.OrderID" asp-route-total="@item.OrderTotal"></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+</div>

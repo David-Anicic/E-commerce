@@ -1,0 +1,40 @@
+﻿@model EP2_2.Models.ViewModels.OrdersListItemsViewModel
+
+<div class="middle" style="min-height:500px;">
+    <div class="heading">
+        <h2>Your order details</h2>
+        <h4>Here are the orders you shopped.</h4>
+    </div>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Selected amount</th>
+                <th>Product</th>
+                <th class="text-right">Price</th>
+                <th class="text-right">Subtotal</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model.OrderItems)
+            {
+                <tr>
+                    <td class="text-center">@product.Amount</td>
+                    <td class="text-left">@product.Product.Name</td>
+                    <td class="text-right">@product.Product.Price.ToString("c")</td>
+                    <td class="text-right">
+                        @((product.Amount * product.Product.Price).ToString("c"))
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-right">Total:</td>
+                <td class="text-right">
+                    @Model.Total.ToString("c")
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
