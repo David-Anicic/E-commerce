@@ -1,4 +1,4 @@
-This e-commerce site is created using MVC ASP.NET Core.
+E-commerce site created using MVC ASP.NET Core.
 
 <p><b>Home page:</b></p>
 <img src="https://i.imgur.com/HBpuKJL.jpg">
